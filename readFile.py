@@ -1,4 +1,4 @@
-#comment
+#comment test
 with open ("C:\\Users\\cpgktm\\Desktop\\read.txt","r") as myfile:
     data=myfile.readlines()
 
